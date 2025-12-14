@@ -11,7 +11,6 @@ export const metadata: Metadata = {
   title: "Fyntora.sh - Shaping the Future of AI Hardware",
   description:
     "Revolutionary semiconductor company working on custom CPUs, GPUs, and servers for next-generation AI infrastructure.",
-  generator: "v0.app",
   icons: {
     icon: [
       {
