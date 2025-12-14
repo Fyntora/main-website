@@ -93,7 +93,8 @@ export default function AboutPage() {
                 <h3 className="font-semibold text-lg">Long-Term Thinking</h3>
                 <p className="text-sm text-muted-foreground">
                   We build infrastructure meant to last decades, not product cycles.
-                </p>
+                  ( More information soon. )
+                </p> 
               </div>
             </div>
           </div>
