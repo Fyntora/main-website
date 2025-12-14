@@ -147,7 +147,7 @@ function ComingSoon() {
                         }
                     }["ComingSoon.useEffect.timer"], 600);
                 }
-            }["ComingSoon.useEffect.timer"], 3000);
+            }["ComingSoon.useEffect.timer"], 2000);
             return ({
                 "ComingSoon.useEffect": ()=>clearTimeout(timer)
             })["ComingSoon.useEffect"];

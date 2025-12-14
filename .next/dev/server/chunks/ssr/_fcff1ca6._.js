@@ -125,7 +125,7 @@ function ComingSoon() {
             setTimeout(()=>{
                 setIsLoading(false);
             }, 600);
-        }, 3000);
+        }, 2000);
         return ()=>clearTimeout(timer);
     }, []);
     const handleSubmit = (e)=>{
