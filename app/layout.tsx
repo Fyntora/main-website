@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Fyntora.sh - Shaping the Future of AI Hardware",
+  title: "Fyntora.sh - Shaping the Future of (*AI) Hardware",
   description:
     "Revolutionary semiconductor company working on custom CPUs, GPUs, and servers for next-generation AI infrastructure.",
   icons: {
