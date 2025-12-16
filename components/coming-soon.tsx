@@ -63,7 +63,7 @@ export function ComingSoon() {
               Coming Soon
             </div>
 
-            <h1 className="text-5xl md:text-6xl font-semibold tracking-tight text-balance">Shaping AI Hardware</h1>
+            <h1 className="text-5xl md:text-6xl font-semibold tracking-tight text-balance">Shaping (*AI) Hardware</h1>
 
             <p className="text-lg text-muted-foreground max-w-xl mx-auto text-balance leading-relaxed">
               Revolutionary semiconductor technology. Custom CPUs, GPUs, and servers designed for AI.
